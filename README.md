@@ -147,7 +147,7 @@ jobs:
           disableSSLVerification: 'true'
 ```
 
-### Example-5 Deploy with Proprties fetched from Github variables
+### Example-5 Deploy with Properties fetched from Github variables
 
 ```yaml
 
