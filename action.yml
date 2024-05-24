@@ -1,5 +1,8 @@
-name: 'Deploy UCD aapplication'
-description: 'Run UCD Application Process Request '
+name: 'Deploy a Devops-Deploy application'
+description: 'Run Devops-Deploy Application Process Request'
+branding:
+  icon: 'copy'
+  color: 'blue'
 inputs:
   application:
     description: 'Application Name'
